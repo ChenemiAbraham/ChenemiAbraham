@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChenemiAbraham
-- 👀 I’m interested in ... Data Analytics
-- 🌱 I’m currently learning ... SQL & Python
+- 👀 Data Analytics, Big Data, Machine Learning 
+- 🌱 Stack: SQL, R & Python
 - 💞️ I’m looking to collaborate on ... Data Analytics projects
 - 📫 How to reach me ... https://www.linkedin.com/in/chenemi-abraham/
 
