@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ChenemiAbraham
 - 👀 Software engineering, data engineering, big data, machine learning 
-- 🌱 Stack: SQL, R & Python
 - 💞️ I’m looking to collaborate on enterprise engineering projects
 - 📫 How to reach me ... https://www.linkedin.com/in/chenemi-abraham/
 
