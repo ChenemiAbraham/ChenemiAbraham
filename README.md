@@ -1,4 +1,4 @@
-Streaming Data Engineer specializing in Apache Flink, Kafka, distributed systems, real-time analytics and AI-powered financial data platforms.
+Streaming Data Engineer specializing in Apache Flink, Kafka, ClickHouse, Elasticsearch, distributed systems, real-time analytics and AI-powered financial data platforms.
 
 Certified Confluent Data Streaming Engineer — Apache Flink.
 
