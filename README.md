@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @ChenemiAbraham
-- 👀 Software engineering, data engineering, big data, machine learning 
-- 💞️ I’m looking to collaborate on enterprise engineering projects
+Streaming Data Engineer specializing in Apache Flink, Kafka, distributed systems, real-time analytics and AI-powered financial data platforms.
+
+Certified Confluent Data Streaming Engineer — Apache Flink.
+
+Built production-style streaming systems involving stateful processing, event-time semantics, CEP, ML inference, fault tolerance, Iceberg lakehouses and real-time financial analytics.
+
 - 📫 How to reach me ... https://www.linkedin.com/in/chenemi-abraham/
 
 <!---
